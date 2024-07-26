@@ -1,13 +1,13 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm R H A Tharushi Nethma Ranasinghe</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/3612ee9ed74410f8215009e743bde46d2bd74b96bc330563604211dc5f35d4b1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharushiranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="tharushiranasinghe" /> </p>
 
-- 🌱 I’m currently learning **React Native, Node.js**
+- 🌱 I’m currently learning **Springboot, Angular**
 
-- 💬 Ask me about **java, Python**
+- 💬 Ask me about **java, Python, OOP, React, React-native, React, R, HTML, CSS, JS, SQL**
 
 - 📫 How to reach me **tharushinethma2002@gmail.com**
 
