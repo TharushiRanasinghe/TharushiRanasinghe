@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Springboot, Angular**
 
-- 💬 Ask me about **java, Python, OOP, React, React-native, React, R, HTML, CSS, JS, SQL**
+- 💬 Ask me about **java, Python, OOP, React, React-native, R, HTML, CSS, JS, SQL**
 
 - 📫 How to reach me **tharushinethma2002@gmail.com**
 
