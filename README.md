@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharushiranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="tharushiranasinghe" /> </p>
 
-- 🌱 I’m currently learning **Springboot, Angular**
+<!-- - 🌱 I’m currently learning **Springboot, Angular**-->
 
 - 📫 How to reach me **tharushinethma2002@gmail.com**
 
