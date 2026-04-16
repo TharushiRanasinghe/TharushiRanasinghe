@@ -34,7 +34,6 @@
     <td><h4>Frontend Development</h4></td>
     <td>
      <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
-<img src="https://reactjs.org/logo-og.png" width="40"/>
     </td>
   </tr>
 
