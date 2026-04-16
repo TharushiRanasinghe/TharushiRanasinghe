@@ -13,7 +13,7 @@
 - 🧩 Experienced in software development, system design, debugging, and production support  
 - 👨‍💻 Passionate about building scalable, efficient, and reliable software solutions    
 - 📫 Reach me: **tharushinethma2002@gmail.com**  
-- 🔗 LinkedIn: [Profile](https://linkedin.com/in/tharushi-nethma-ranasinghe-b11a22257)
+- 🔗 LinkedIn: [Profile]([https://linkedin.com/in/tharushi-nethma-ranasinghe-b11a22257](https://www.linkedin.com/in/tharushi-ranasinghe-b11a22257/))
 
 ---
 
