@@ -19,42 +19,59 @@
 
 ### ⚙️ Tech Stack
 
-#### Programming Languages
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<table>
+  <tr>
+    <td><h4>Programming Languages</h4></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://www.r-project.org/logo/Rlogo.svg" width="40"/>
+    </td>
+  </tr>
 
----
-
-#### Frontend
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
+  <tr>
+    <td><h4>Frontend Development</h4></td>
+    <td>
+     <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
 <img src="https://reactjs.org/logo-og.png" width="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><h4>Backend Development</h4></td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><h4>Mobile Development</h4></td>
+    <td>
+      <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><h4>Databases</h4></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><h4>Tools</h4></td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+    </td>
+  </tr>
+</table>
 
 ---
-
-#### Backend
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
-
----
-
-#### Mobile Development
-<img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
-
----
-
-#### Databases
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-
----
-
-#### Tools
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-
 ---
 
 ### 💡 Focus Areas
